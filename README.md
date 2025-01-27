@@ -1,4 +1,6 @@
-# MinecraftRatingSpammer _(v1.0 by MrRabbitson)_
+#![icon](https://github.com/user-attachments/assets/b5f186d6-115d-42ba-b576-dcaf3ffd590b)
+
+MinecraftRatingSpammer _(v1.0 by MrRabbitson)_
 
 ## Download / Скачать:
 [https://github.com/MrRabbitson/MinecraftRatingSpammer/raw/refs/heads/main/MinecraftRatingSpammer.exe](https://github.com/MrRabbitson/MinecraftRatingSpammer/releases/download/MinecraftRatingSpammer/MinecraftRatingSpammer.exe)
