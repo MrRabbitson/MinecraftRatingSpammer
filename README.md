@@ -1,7 +1,7 @@
 # MinecraftRatingSpammer _(v1.0 by MrRabbitson)_
 
 ## Download / Скачать:
-https://github.com/MrRabbitson/MinecraftRatingSpammer/raw/refs/heads/main/MinecraftRatingSpammer.exe
+[https://github.com/MrRabbitson/MinecraftRatingSpammer/raw/refs/heads/main/MinecraftRatingSpammer.exe](https://github.com/MrRabbitson/MinecraftRatingSpammer/releases/download/MinecraftRatingSpammer/MinecraftRatingSpammer.exe)
 
 ## Eng:
 This is a simple utility for automatically adding servers to the top-1 monitoring in the CIS countries "MinecraftRating".
