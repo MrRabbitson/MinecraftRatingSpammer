@@ -19,4 +19,6 @@ VirusTotal test - https://www.virustotal.com/gui/file/2b5504c7a00b65ee95ebbb3316
 Программа выполняется в консоли.
 
 Проверка от VirusTotal - https://www.virustotal.com/gui/file/2b5504c7a00b65ee95ebbb3316c2633a89206c7d344d2034692e5cc6a9bbb019
-About
+
+## Sources / Исходники:
+https://github.com/MrRabbitson/MinecraftRatingSpammer/archive/refs/tags/MinecraftRatingSpammer.zip
